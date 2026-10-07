@@ -27,5 +27,4 @@ The individual-level data used in this study are not included in this repository
 If you use this code, please cite: [reference].
 
 ## License
-
-[MIT]
+This code is released under the MIT License. See the LICENSE file for details.
