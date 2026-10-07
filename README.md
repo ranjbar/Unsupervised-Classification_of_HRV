@@ -19,8 +19,8 @@ The individual-level data used in this study are not included in this repository
 
 ## Requirements
 
-- R [version]
-- Packages: [list with versions]
+- R 4.4.1
+- Packages: tidySEM (0.2.7), OpenMx (2.21.13), lcmm (2.1.0), flexmix (2.3-19), MASS (7.3-61), dplyr (1.1.4), tidyr (1.3.1), ggplot2 (3.5.2)
 
 ## Citation
 
