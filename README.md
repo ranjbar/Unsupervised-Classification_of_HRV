@@ -15,7 +15,7 @@ The repository contains six R Markdown files, which should be run in the order g
 
 ## Data availability
 
-The individual-level data used in this study are not included in this repository because of [participant confidentiality / cohort data-access policy]. Researchers can request access from [cohort/institution, contact or URL].
+The individual-level data used in this study are not included in this repository because of participant confidentiality. Researchers can request access from the authors.
 
 ## Requirements
 
