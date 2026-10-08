@@ -13,9 +13,20 @@ The repository contains six R Markdown files, which should be run in the order g
 5. `05_LGM_HR.Rmd`: latent growth mixture model for heart rate
 6. `06_LGM_and_determinants_of_classes.Rmd`: combines the class assignments and analyses their determinants
 
+## Results (compiled reports)
+
+The compiled HTML reports, with all tables and figures, can be viewed directly in the browser:
+
+1. [Latent growth mixture model: stress index](https://ranjbar.github.io/Unsupervised-Classification_of_HRV/html_Results/01_LGM_Stress.html)
+2. [Latent growth mixture model: SNS index](https://ranjbar.github.io/Unsupervised-Classification_of_HRV/html_Results/02_LGM_SNS.html)
+3. [Latent growth mixture model: rMSSD](https://ranjbar.github.io/Unsupervised-Classification_of_HRV/html_Results/03_LGM_rMSSD.html)
+4. [Latent growth mixture model: PNS index](https://ranjbar.github.io/Unsupervised-Classification_of_HRV/html_Results/04_LGM_PNS.html)
+5. [Latent growth mixture model: heart rate](https://ranjbar.github.io/Unsupervised-Classification_of_HRV/html_Results/05_LGM_HR.html)
+6. [Latent classes and their determinants](https://ranjbar.github.io/Unsupervised-Classification_of_HRV/html_Results/06_LGM_and_determinants_of_classes.html)
+
 ## Data availability
 
-The individual-level data used in this study are not included in this repository because of participant confidentiality. Researchers can request access from the authors.
+The individual-level data used in this study are accessible on Mendeley Data via [this link](https://data.mendeley.com/datasets/vf73w9hyrx/1).
 
 ## Requirements
 
