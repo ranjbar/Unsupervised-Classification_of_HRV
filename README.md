@@ -1,7 +1,7 @@
 # Unsupervised Classification of HRV
 
-Code to reproduce the results in the manuscript *"Unsupervised classification of heart-rate variability in the general male population"* [authors, journal, year, DOI].
-
+Code to reproduce the results in the manuscript *"Exploratory unsupervised modeling suggests distinct autonomic trajectories associated with aggression-related traits in nonclinical men."* 
+Palix, J., Dan-Glauser, E., Abbiati, M., Mohr, C., Moulin, V., Abu-Akel, A., & Ranjbar, S. (under review). 
 ## Contents
 
 The repository contains six R Markdown files, which should be run in the order given by their numeric prefix:
