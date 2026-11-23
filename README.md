@@ -35,7 +35,9 @@ The individual-level data used in this study are accessible on Mendeley Data via
 
 ## Citation
 
-If you use this code, please cite: [reference].
+Manuscript associated with this repository
+
+Palix, J., Dan-Glauser, E., Abbiati, M., Mohr, C., Moulin, V., Abu-Akel, A., & Ranjbar, S. (under review). Exploratory unsupervised modeling suggests distinct autonomic trajectories associated with aggression-related traits in nonclinical men.
 
 ## License
 This code is released under the MIT License. See the LICENSE file for details.
