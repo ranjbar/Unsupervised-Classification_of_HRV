@@ -1,7 +1,7 @@
 # Unsupervised Classification of HRV
 
 Code to reproduce the results in the manuscript *"Exploratory unsupervised modeling suggests distinct autonomic trajectories associated with aggression-related traits in nonclinical men."* 
-Palix, J., Dan-Glauser, E., Abbiati, M., Mohr, C., Moulin, V., Abu-Akel, A., & Ranjbar, S. (under review). 
+Palix, J., Dan-Glauser, E., Abbiati, M., Mohr, C., Moulin, V., Abu-Akel, A., & Ranjbar, S. (under review). https://doi.org/10.5281/zenodo.24468064
 ## Contents
 
 The repository contains six R Markdown files, which should be run in the order given by their numeric prefix:
